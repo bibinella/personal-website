@@ -1,0 +1,40 @@
+h1, h2 {
+  font-family: "Fredoka", sans-serif;
+}
+
+p {
+  font-family: "Bitter", serif;
+  font-weight: 600;
+}
+
+mark {
+  background-color: #f8ce51;
+  border-radius: 20px;
+  padding: 6px;
+}
+
+.bibi-image {
+  object-fit: contain;
+  height: 150px;
+}
+
+.nav > .nav-item a {
+  font-family: "Bitter", serif;
+  font-weight: 600;
+  color: black;
+}
+
+ul > li > p {
+  margin-bottom: 0.5rem;
+}
+
+.container > div > button {
+  font-weight: 600;
+  font-family: "Bitter", serif;
+  border: none;
+  background-color: #f8ce51;
+}
+
+#hero > .container > .row {
+  border-radius: 50px;
+}
